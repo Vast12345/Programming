@@ -1,0 +1,5 @@
+print (1)
+number = int(input("insert number"))
+print (number)
+number2 = float(input("insert number"))
+print (number2)

@@ -1,0 +1,5 @@
+print ("hello world")
+food = input ("please insert flavor: ")
+food2= input ("please insert another flavor")
+print ("your flavor 1 is " + food + "\t your flavor2 is " + food2)
+print (f"your flavor is {food}, \n your flavor2 is {food2}")
